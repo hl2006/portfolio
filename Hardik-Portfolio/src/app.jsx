@@ -256,6 +256,16 @@ function App() {
             </article>
             <article className="timeline-item">
               <span className="timeline-dot"></span>
+              <p className="date">CLASS XII</p>
+              <h3>Senior Secondary — PCM</h3>
+              <p className="place">
+                Kota Career Science Education Centre Sr. Sec. School
+              </p>
+              <p>Board: RBSE</p>
+              <p>Percentage: 88%</p>
+            </article>
+            <article className="timeline-item">
+              <span className="timeline-dot"></span>
               <p className="date">MAY 2026 — JULY 2026</p>
               <h3>Frontend Development Intern</h3>
               <p className="place">Integration Edutech Pvt. Ltd.</p>
