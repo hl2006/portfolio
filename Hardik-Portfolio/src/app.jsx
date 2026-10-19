@@ -141,7 +141,7 @@ function App() {
                 <h3>Download My Resume</h3>
                 <a
                   className="button"
-                  href="http://localhost:5000/api/resume/pdf"
+                  href="https://hardik-portfolio-api.onrender.com/api/resume/pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -149,7 +149,7 @@ function App() {
                 </a>
                 <a
                   className="button"
-                  href="http://localhost:5000/api/resume/docx"
+                  href="https://hardik-portfolio-api.onrender.com/api/resume/docx"
                 >
                   Download Word
                 </a>
